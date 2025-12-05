@@ -65,24 +65,6 @@ Data: AliExpress DataHub (RapidAPI)
 
 Deployment: Vercel
 
-📸 Screenshots
-
-Dashboard
-
-Product Hunter
-
-<img src="public/screenshot_dashboard.png" alt="Dashboard" width="400"/>
-
-<img src="public/screenshot_finder.png" alt="Finder" width="400"/>
-
-Store Builder
-
-Marketing Hub
-
-<img src="public/screenshot_builder.png" alt="Builder" width="400"/>
-
-<img src="public/screenshot_marketing.png" alt="Marketing" width="400"/>
-
 🤝 Contributing
 
 Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
